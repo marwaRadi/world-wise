@@ -1,0 +1,40 @@
+{
+  "cities": [
+    {
+      "id": "4790307",
+      "cityName": "Alexandria",
+      "country": "Egypt",
+      "notes": "my city",
+      "emoji": "EG",
+      "date": "Saturday, March 1, 2025",
+      "position": {
+        "lat": "31.189455828145476",
+        "lng": "29.896545410156254"
+      }
+    },
+    {
+      "id": "047259",
+      "cityName": "Alexandria",
+      "country": "Egypt",
+      "notes": "",
+      "emoji": "EG",
+      "date": "Saturday, March 1, 2025",
+      "position": {
+        "lat": "31.312672728571943",
+        "lng": "30.064086914062504"
+      }
+    },
+    {
+      "id": "171823",
+      "cityName": "Bunda",
+      "country": "Tanzania, the United Republic of",
+      "notes": "",
+      "emoji": "TZ",
+      "date": "Saturday, March 1, 2025",
+      "position": {
+        "lat": "-1.9985070877809836",
+        "lng": "33.88183593750001"
+      }
+    }
+  ]
+}
