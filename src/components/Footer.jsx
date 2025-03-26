@@ -1,4 +1,4 @@
-import styles from "./footer.module.css";
+import styles from "./Footer.module.css";
 const date = new Date();
 function Footer() {
   return (
